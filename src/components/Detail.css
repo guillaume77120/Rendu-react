@@ -1,0 +1,9 @@
+.largebox{
+    display: flex;
+    justify-content: center;
+    background: #1C2942;
+    border: 1px solid #3B556D;
+    border-radius: 5px;
+    width: 1260px;
+    height: 426px;
+}
